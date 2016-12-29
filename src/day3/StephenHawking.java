@@ -8,7 +8,7 @@ public class StephenHawking {
 
 	// 1. make a main method and put steps 2, 3 & 4 inside it
 	public static void main(String[] args) {
-		for(int bruv=0;bruv<10;bruv++){
+		for(int bruv=0;bruv<1000000;bruv++){
 		String words = JOptionPane.showInputDialog("Type in a sentence.");
 		speak(words);
 		}
