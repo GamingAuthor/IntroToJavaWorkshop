@@ -19,7 +19,7 @@ bobert.setRandomPenColor();
 bobert.move(5*bruh);
 			// 2. Turn the robot 1/3 of 360 degrees to the right
 			// 8. Change the number of sides to 7 (don’t add a new line of code for this one!)
-bobert.turn(360/50);
+bobert.turn(360/3);
 			// 9. Set the pen width to i
 bobert.setPenWidth(bruh);
 }
